@@ -50,7 +50,7 @@
     "node": ">=22.13.0"
   },
   "dependencies": {
-    "@polymer/polymer": "3.5.1",
+    "@polymer/polymer": "3.5.2",
     "@vaadin/accordion": "24.6.2",
     "@vaadin/app-layout": "24.0.0",
     "@vaadin/avatar": "24.0.0",
@@ -118,7 +118,7 @@
   },
   "vaadin": {
     "dependencies": {
-      "@polymer/polymer": "3.5.1",
+      "@polymer/polymer": "3.5.2",
       "@vaadin/accordion": "24.6.2",
       "@vaadin/app-layout": "24.0.0",
       "@vaadin/avatar": "24.0.0",
