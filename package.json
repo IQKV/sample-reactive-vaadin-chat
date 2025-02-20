@@ -1,5 +1,5 @@
 {
-  "name": "@know-how-spring-boot/sample-reactive-vaadin-chat",
+  "name": "@iqkv/sample-reactive-vaadin-chat",
   "version": "25.0.0",
   "description": "Vaadin libraries for implementing frontend part.",
   "private": true,
