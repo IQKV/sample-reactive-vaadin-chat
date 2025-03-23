@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.iqkv.incubator.sample.reactivevaadinchat;
+package com.iqkv.sample.reactivevaadinchat;
 
 import java.time.Instant;
 

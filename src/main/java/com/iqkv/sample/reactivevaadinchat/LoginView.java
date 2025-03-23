@@ -14,9 +14,18 @@
  * limitations under the License.
  */
 
-package com.iqkv.incubator.sample.reactivevaadinchat;
+package com.iqkv.sample.reactivevaadinchat;
 
-import java.time.Instant;
+import com.vaadin.flow.component.login.LoginForm;
+import com.vaadin.flow.component.orderedlayout.VerticalLayout;
+import com.vaadin.flow.router.Route;
 
-record Message(String username, String text, Instant time) {
+@Route("login")
+class LoginView extends VerticalLayout {
+
+  LoginView() {
+    var form = new LoginForm();
+    form.setAction("login");
+    add(form);
+  }
 }
