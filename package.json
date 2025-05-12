@@ -21,7 +21,7 @@
     "async": "3.2.6",
     "cz-conventional-changelog": "^3.3.0",
     "glob": "^11.0.2",
-    "lint-staged": "^15.5.1",
+    "lint-staged": "^16.0.0",
     "husky": "9.1.7",
     "mkdirp": "1.0.4",
     "prettier": "3.5.3",
