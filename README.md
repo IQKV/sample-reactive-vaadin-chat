@@ -19,7 +19,7 @@ The following items should be installed in your system:
 This application is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built
 using [Maven](https://spring.io/guides/gs/maven/). You can build a jar file and run it from the command line:
 
-```
+```bash
 git clone https://github.com/IQKV/sample-reactive-vaadin-chat.git
 cd sample-reactive-vaadin-chat
 ./mvnw package
@@ -28,7 +28,7 @@ java -jar target/*.jar
 
 You might also want to use Maven's `spring-boot:run` goal - applications run in an exploded form, as they do in your IDE:
 
-```
+```bash
 ./mvnw spring-boot:run -Dspring-boot.run.profiles=local -P production
 ```
 
@@ -36,7 +36,7 @@ You might also want to use Maven's `spring-boot:run` goal - applications run in 
 
 1. On the command line
 
-```
+```bash
 git clone https://github.com/IQKV/sample-reactive-vaadin-chat.git
 ```
 
@@ -60,9 +60,9 @@ quality is measured by:
 
 ### Tests
 
-This project has standard JUnit tests. To run them execute this command:
+This project contains a JUnit tests, Hamcrest matchers, Mockito test doubles, Wiremock stubs, etc. You can run the test suite using
 
-```text
+```bash
 ./mvnw verify -Puse-qulice
 ```
 
