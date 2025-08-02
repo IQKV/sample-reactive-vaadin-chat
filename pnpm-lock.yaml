@@ -25,7 +25,7 @@ importers:
         version: 24.0.0
       '@vaadin/bundles':
         specifier: 24.0.0
-        version: 24.0.0(tjhos6yq7snpkzuqvamwtxz33i)
+        version: 24.0.0(ay2x2xa4pfjkgo2riayj2rtsqu)
       '@vaadin/button':
         specifier: 24.7.5
         version: 24.7.5
@@ -102,8 +102,8 @@ importers:
         specifier: 24.0.0
         version: 24.0.0
       '@vaadin/lit-renderer':
-        specifier: 24.8.1
-        version: 24.8.1
+        specifier: 24.8.4
+        version: 24.8.4
       '@vaadin/login':
         specifier: 24.6.0
         version: 24.6.0
@@ -1880,14 +1880,11 @@ packages:
   '@vaadin/lit-renderer@24.6.11':
     resolution: {integrity: sha512-JugFumbBQP4r28+HcbdDUVVGs5VRsqanLsifjkVrz/xb4saWv460lEYco5ES+StH+xZ2IuJZmEjEFUBSrVR/tA==}
 
-  '@vaadin/lit-renderer@24.7.10':
-    resolution: {integrity: sha512-Fsx483i44sR2jKlYHarnKsdwgPkwMMEt/MhS2P0xhGbMjhj6qT+HeRi7HKYLompm/vhNPdB1UlZrCn7gO5xAEg==}
+  '@vaadin/lit-renderer@24.7.11':
+    resolution: {integrity: sha512-IcUvORztp2USBuZnwwKr1VmamXQZTAs1QTpe+VWf9yglELX6lWAwA3fIAIAFwej+vBiO9v8XHPJK0bDiPiTLKA==}
 
-  '@vaadin/lit-renderer@24.8.1':
-    resolution: {integrity: sha512-kaOCHI0Ahz58yNeQjjOO6Ta1a3jZ0XKC7qYgh5vk3mKsDUI0FcqXKXeadHAQj706S8YAMdTPPHKCy1hojxXNUQ==}
-
-  '@vaadin/lit-renderer@24.8.3':
-    resolution: {integrity: sha512-3753itYgp/TY81Nm5u7OrCUhsTgkxr19BvVo8O00wHWhQThZOS7bD6+N7pSH83XEG9pv8zQiY24kQBOeSzc0DQ==}
+  '@vaadin/lit-renderer@24.8.4':
+    resolution: {integrity: sha512-/5VteG9NirT9DRT1ig15lDZnZZ38yEM5vcMz3bDYvr2Yq5jzu/HcPh0UDChhVaJsru3X9y/vpZHY2sG+yiBU3A==}
 
   '@vaadin/login@24.6.0':
     resolution: {integrity: sha512-s2D2SApr3NzInl3yfyPL6UId4aFrzMO5B7Vo+/3CiSfxW711R6lpPCl1/5Olx7kUpA+mn7KAUGVdLt6tlPrTmA==}
@@ -6299,7 +6296,7 @@ snapshots:
       '@vaadin/vaadin-material-styles': 24.0.14
       '@vaadin/vaadin-themable-mixin': 24.0.0
 
-  '@vaadin/bundles@24.0.0(tjhos6yq7snpkzuqvamwtxz33i)':
+  '@vaadin/bundles@24.0.0(ay2x2xa4pfjkgo2riayj2rtsqu)':
     optionalDependencies:
       '@polymer/polymer': 3.5.2
       '@vaadin/accordion': 24.6.6
@@ -6330,7 +6327,7 @@ snapshots:
       '@vaadin/integer-field': 24.0.0
       '@vaadin/item': 24.7.7
       '@vaadin/list-box': 24.0.0
-      '@vaadin/lit-renderer': 24.8.1
+      '@vaadin/lit-renderer': 24.8.4
       '@vaadin/login': 24.6.0
       '@vaadin/menu-bar': 24.8.3
       '@vaadin/message-input': 24.6.4
@@ -6487,7 +6484,7 @@ snapshots:
       '@vaadin/field-base': 24.7.10
       '@vaadin/input-container': 24.7.5
       '@vaadin/item': 24.7.7
-      '@vaadin/lit-renderer': 24.7.10
+      '@vaadin/lit-renderer': 24.7.11
       '@vaadin/overlay': 24.7.11
       '@vaadin/vaadin-lumo-styles': 24.7.7
       '@vaadin/vaadin-material-styles': 24.7.10
@@ -6503,7 +6500,7 @@ snapshots:
       '@vaadin/field-base': 24.7.10
       '@vaadin/input-container': 24.7.10
       '@vaadin/item': 24.7.10
-      '@vaadin/lit-renderer': 24.7.10
+      '@vaadin/lit-renderer': 24.7.11
       '@vaadin/overlay': 24.7.11
       '@vaadin/vaadin-lumo-styles': 24.7.11
       '@vaadin/vaadin-material-styles': 24.7.11
@@ -6611,7 +6608,7 @@ snapshots:
       '@vaadin/component-base': 24.8.3
       '@vaadin/item': 24.8.3
       '@vaadin/list-box': 24.8.3
-      '@vaadin/lit-renderer': 24.8.3
+      '@vaadin/lit-renderer': 24.8.4
       '@vaadin/overlay': 24.8.4
       '@vaadin/vaadin-lumo-styles': 24.8.3
       '@vaadin/vaadin-material-styles': 24.8.3
@@ -6801,7 +6798,7 @@ snapshots:
       '@vaadin/a11y-base': 24.7.10
       '@vaadin/checkbox': 24.7.10
       '@vaadin/component-base': 24.7.10
-      '@vaadin/lit-renderer': 24.7.10
+      '@vaadin/lit-renderer': 24.7.11
       '@vaadin/text-field': 24.7.10
       '@vaadin/vaadin-lumo-styles': 24.7.7
       '@vaadin/vaadin-material-styles': 24.7.10
@@ -7051,15 +7048,11 @@ snapshots:
     dependencies:
       lit: 3.3.0
 
-  '@vaadin/lit-renderer@24.7.10':
+  '@vaadin/lit-renderer@24.7.11':
     dependencies:
       lit: 3.3.0
 
-  '@vaadin/lit-renderer@24.8.1':
-    dependencies:
-      lit: 3.3.0
-
-  '@vaadin/lit-renderer@24.8.3':
+  '@vaadin/lit-renderer@24.8.4':
     dependencies:
       lit: 3.3.0
 
@@ -7134,7 +7127,7 @@ snapshots:
       '@open-wc/dedupe-mixin': 1.4.0
       '@polymer/polymer': 3.5.2
       '@vaadin/component-base': 24.7.10
-      '@vaadin/lit-renderer': 24.7.10
+      '@vaadin/lit-renderer': 24.7.11
       '@vaadin/overlay': 24.7.11
       '@vaadin/vaadin-lumo-styles': 24.7.7
       '@vaadin/vaadin-material-styles': 24.7.10
