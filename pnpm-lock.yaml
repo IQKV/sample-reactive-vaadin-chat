@@ -25,7 +25,7 @@ importers:
         version: 24.0.0
       '@vaadin/bundles':
         specifier: 24.0.0
-        version: 24.0.0(ay2x2xa4pfjkgo2riayj2rtsqu)
+        version: 24.0.0(so3mrrbxc46getwk7xm3h73jmq)
       '@vaadin/button':
         specifier: 24.7.5
         version: 24.7.5
@@ -120,8 +120,8 @@ importers:
         specifier: 24.0.0
         version: 24.0.0
       '@vaadin/notification':
-        specifier: 24.7.1
-        version: 24.7.1
+        specifier: 24.8.4
+        version: 24.8.4
       '@vaadin/number-field':
         specifier: 24.5.5
         version: 24.5.5
@@ -1901,8 +1901,8 @@ packages:
   '@vaadin/multi-select-combo-box@24.0.0':
     resolution: {integrity: sha512-OdDqsPIi6Xe/23vAR2YYt9DoCv/ryeTV/2Q/k4+uPCTnlcSKFodpZnc3FAOV4R/8irt9/AyieqhQIOfp4+VzUA==}
 
-  '@vaadin/notification@24.7.1':
-    resolution: {integrity: sha512-Iw6/KYcGjbEiM8fkiYK4XefO8D0fQrHfFiAPq0iV92BOXu40P11fU3O+LbGDOuzvEAjCyivF4ceNCul/4zZ1bQ==}
+  '@vaadin/notification@24.8.4':
+    resolution: {integrity: sha512-cueBh2zZnQ7J6OMMh9pKU5kFpoFwITafxnlz0xPpAufCQcqcCcK/K1qcqfAvB/LlDwIjktTqYeA1SMHhhK5/dg==}
 
   '@vaadin/number-field@24.0.14':
     resolution: {integrity: sha512-je3Sm8VVGOX6oYIVYG5zIXOtKY2JQaP7YXs6IK12zJb/PIfESh1M+1EvMJBw8m9gqF6pxccki3Knin2xCVcrRQ==}
@@ -6296,7 +6296,7 @@ snapshots:
       '@vaadin/vaadin-material-styles': 24.0.14
       '@vaadin/vaadin-themable-mixin': 24.0.0
 
-  '@vaadin/bundles@24.0.0(ay2x2xa4pfjkgo2riayj2rtsqu)':
+  '@vaadin/bundles@24.0.0(so3mrrbxc46getwk7xm3h73jmq)':
     optionalDependencies:
       '@polymer/polymer': 3.5.2
       '@vaadin/accordion': 24.6.6
@@ -6333,7 +6333,7 @@ snapshots:
       '@vaadin/message-input': 24.6.4
       '@vaadin/message-list': 24.0.0
       '@vaadin/multi-select-combo-box': 24.0.0
-      '@vaadin/notification': 24.7.1
+      '@vaadin/notification': 24.8.4
       '@vaadin/number-field': 24.5.5
       '@vaadin/overlay': 24.8.4
       '@vaadin/password-field': 24.0.0
@@ -7122,16 +7122,16 @@ snapshots:
       '@vaadin/vaadin-material-styles': 24.0.14
       '@vaadin/vaadin-themable-mixin': 24.0.0
 
-  '@vaadin/notification@24.7.1':
+  '@vaadin/notification@24.8.4':
     dependencies:
       '@open-wc/dedupe-mixin': 1.4.0
       '@polymer/polymer': 3.5.2
-      '@vaadin/component-base': 24.7.10
-      '@vaadin/lit-renderer': 24.7.11
-      '@vaadin/overlay': 24.7.11
-      '@vaadin/vaadin-lumo-styles': 24.7.7
-      '@vaadin/vaadin-material-styles': 24.7.10
-      '@vaadin/vaadin-themable-mixin': 24.7.10
+      '@vaadin/component-base': 24.8.4
+      '@vaadin/lit-renderer': 24.8.4
+      '@vaadin/overlay': 24.8.4
+      '@vaadin/vaadin-lumo-styles': 24.8.4
+      '@vaadin/vaadin-material-styles': 24.8.4
+      '@vaadin/vaadin-themable-mixin': 24.8.4
       lit: 3.3.0
 
   '@vaadin/number-field@24.0.14':
